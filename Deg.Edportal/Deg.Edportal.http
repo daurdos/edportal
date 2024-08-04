@@ -1,0 +1,6 @@
+@Deg.Edportal_HostAddress = http://localhost:5215
+
+GET {{Deg.Edportal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
