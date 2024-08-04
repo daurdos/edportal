@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GGwlnNTO88A=",
+  "dgSpecHash": "nnHsp/PBZeNk7QTMsFqtQMJRS95RmWx9RdxjCEN+JhJWUCIMJcS7FXU8Vbq1THzun6vrNiesUlCpVkH53qXDUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\daurd\\source\\repos\\Deg.Edportal\\Deg.Edportal\\Deg.Edportal.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\daurd\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
